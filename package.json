@@ -1,6 +1,7 @@
 {
   "name": "api_mocking",
   "version": "0.1.0",
+  "homepage": "/static/react",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
